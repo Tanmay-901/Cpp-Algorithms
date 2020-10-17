@@ -2,6 +2,7 @@
 
 When contributing to this repository, please make sure that the changes you wish to make consists of an **Algorithm/Concept/Adanced DSA implementation** 
 and not a mere program which almost everyone beginning with c/cpp knows(like even/odd check).  
+Before making a PR check if the algo is already present(in either language C or Cpp).  
 
 However Basic programs are welcomed in another repository of ours to get your journey of Open source contribution 
 started without the need of in-depth knowledge of programming. if someone is at the beginning to learn programming, you can contribute in  
